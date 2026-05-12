@@ -1,0 +1,8 @@
+Hi Support,
+
+Our SyncIQ replication jobs are stuck at 99% for several hours.
+
+Could you help us troubleshoot this?
+
+Regards,
+David
